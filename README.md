@@ -27,7 +27,7 @@ This project is a landing page for **Gestion de Chais**, a software solution des
 - **Harvest Tracking**: Schedule and organize harvest activities efficiently.
 - **Inventory Management**: Monitor stock levels of grapes, wines, and other materials.
 
-here's a preview of the landing page !
+here's a preview of my landing page !
 
 <img src="./imgs/landingPage1.png">
 <img src="./imgs/landingPage2.png">
@@ -51,16 +51,6 @@ You can view the live landing page by visiting:
 3. Type **"mamuche github pages"** into the search bar.
 4. Click on the link titled **"Mamuche · GitHub"** or directly on **"https://mamuche.github.io/"**.
 5. You will be directed to the landing page for **Gestion de Chais**.
-
-### **Cloning the Repository**
-
-If you prefer to view the landing page locally:
-
-1. Open your terminal or command prompt.
-2. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Mamuche/mamuche.github.io.git
 
 ## **Authors**
 
